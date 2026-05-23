@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Database (runtime data, not source)
+data/
+
+# Output files
+output/
+
+# IDE
+.idea/
+.vscode/
+*.swp
